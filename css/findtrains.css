@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+input[type=submit]
+{
+    background-color: blue; 
+    border: none;
+    color: white;
+    padding: 7px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+}
+
+body {
+	background-image: url("../images/54.jpg");
+	background-repeat: no-repeat;
+    background-position: right top;
+}
+
+button {
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 7px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+b {
+    color: rgb(12,40,62);
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(12,40,62);
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 5vw;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 3vw;
+}
+
+i {
+    background-color: rgb(196, 146, 80);
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+}
+
+th {
+    background-color: blue;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+td {
+    background-color: green;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+th, td {
+    padding: 5px;
+    text-align: left;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.lgt3{
+  background-color: red;
+}
